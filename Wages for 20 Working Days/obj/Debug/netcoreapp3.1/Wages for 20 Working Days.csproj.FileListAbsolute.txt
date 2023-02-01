@@ -1,0 +1,14 @@
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.exe
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.deps.json
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.runtimeconfig.json
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.runtimeconfig.dev.json
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.dll
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\bin\Debug\netcoreapp3.1\Wages for 20 Working Days.pdb
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.csproj.CoreCompileInputs.cache
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.dll
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.pdb
+C:\Users\dell\Lectures\Day4\Wages for 20 Working Days\Wages for 20 Working Days\obj\Debug\netcoreapp3.1\Wages for 20 Working Days.genruntimeconfig.cache
